@@ -2,7 +2,7 @@
 addpath('funs')
 d = 10;
 r = 5;
-n = 20;
+n = 50;
 eps = 10; %noise level
 iter = 1e5;
 
